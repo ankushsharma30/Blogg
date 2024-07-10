@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/coding_ninja",
+        "prod_uri":"mysql://root:@localhost/coding_ninja",
+        "fb_url": "https//:facebook.com/coding_ninja",
+        "tw_url": "https//:twitter.com/coding_ninja",
+        "gh_url": "https//:github.com/coding_ninja",
+        "title": "Coding Beginners",
+        "gmail-user":"ank.sharma232@gmail.com",
+        "gmail-password":"ankush_flask",
+        "about": "Hi my name is Ankush and I created this blog to let everyone help everyone",
+        "no_of_posts": 2,
+        "admin_user":"ankush",
+        "admin_password": "ankush_flask",
+        "upload_location": "C:\\Users\\ankus\\OneDrive\\VS_code\\.vscode\\Flask\\static\\assets\\img"
+    }
+
+
+}
