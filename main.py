@@ -2,7 +2,6 @@ from flask import Flask, render_template,request, session, redirect
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 import json
-from flask_mail import Mail 
 import os
 from werkzeug.utils import secure_filename
 import math
