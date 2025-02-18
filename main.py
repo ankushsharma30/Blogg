@@ -169,6 +169,7 @@ def delete(sno):
         db.session.commit()
     return redirect("/dashboard")
 
+application = app
 
 if __name__== "__main__":
     app.run(debug=True)
