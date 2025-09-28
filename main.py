@@ -7,7 +7,7 @@ from werkzeug.utils import secure_filename
 import math
 
 
-with open(r'C:\Users\ankus\OneDrive\VS_code\.vscode\Flask\config.json', 'r') as c:
+with open('config.json', 'r') as c:
     params = json.load(c)["params"]
 
 local_server=True
